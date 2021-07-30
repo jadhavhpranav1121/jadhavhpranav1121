@@ -39,7 +39,8 @@
 <br />
 <br />
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jadhavhpranav1121&show_icons=true&hide_border=true" />
+  <img align="left" alt="jadhavhoranav1121's GitHub Stats" src="[![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadhavhpranav1121)](https://github.com/jadhavhpranav1121/github-readme-stats)
+" />
 
 </details>
 

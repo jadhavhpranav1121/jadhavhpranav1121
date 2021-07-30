@@ -1,5 +1,6 @@
-### Hi there, I'm Pranav Hari Jadhav 👋
+### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Pranav Hari Jadhav !
 
@@ -38,8 +39,7 @@
 <br />
 <br />
 
-  <img align="left" alt="jadhavhoranav1121's GitHub Stats" src="[![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadhavhpranav1121)](https://github.com/jadhavhpranav1121/github-readme-stats)
-" />
+  <img align="left" alt="jadhavhoranav1121's GitHub Stats" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)" />
 
 </details>
 

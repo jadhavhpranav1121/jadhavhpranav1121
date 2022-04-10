@@ -2,7 +2,7 @@
 ## I'm a Pranav Hari Jadhav !
 
 - 🌱 I’m currently learning MEAN STACK
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 

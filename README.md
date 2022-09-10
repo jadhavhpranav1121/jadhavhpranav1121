@@ -15,8 +15,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sO_a79jPoQBYeH39uT9qALaAJD_keNc2/view](https://drive.google.com/file/d/1sO_a79jPoQBYeH39uT9qALaAJD_keNc2/view)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/pranav-jadhav-473418192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-jadhav-473418192/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pranav_1121" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pranav_1121" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/makepro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="makepro" height="30" width="40" /></a>

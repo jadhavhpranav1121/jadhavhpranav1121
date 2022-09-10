@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadhavhpranav1121&label=Profile%20views&color=0e75b6&style=flat" alt="jadhavhpranav1121" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jadhavhpranav1121" alt="jadhavhpranav1121" /></a> </p>
-
+<div style="display:flex:justify-content:center">
 - 🌱 I’m currently learning **ReactJS,Data Structure and algorithm**
 
 - 👨‍💻 All of my projects are available at [pranavj.web.app](pranavj.web.app)
@@ -14,7 +14,7 @@
 - 📫 How to reach me **jadhavhpranav1121@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sO_a79jPoQBYeH39uT9qALaAJD_keNc2/view](https://drive.google.com/file/d/1sO_a79jPoQBYeH39uT9qALaAJD_keNc2/view)
-
+</div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/pranav-jadhav-473418192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-jadhav-473418192/" height="30" width="40" /></a>

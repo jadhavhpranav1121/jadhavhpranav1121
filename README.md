@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jadhavhpranav1121" alt="jadhavhpranav1121" /></a> </p>
 <div style="display:flex:justify-content:center">
+  
 - 🌱 I’m currently learning **ReactJS,Data Structure and algorithm**
 
 - 👨‍💻 All of my projects are available at [pranavj.web.app](pranavj.web.app)

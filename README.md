@@ -1,37 +1,145 @@
-<h1 align="center">Hi 👋, I'm Pranav Hari Jadhav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jadhavhpranav1121&label=Profile%20views&color=0e75b6&style=flat" alt="jadhavhpranav1121" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pranav%20Hari%20Jadhav&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=58&descColor=94d2bd" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jadhavhpranav1121" alt="jadhavhpranav1121" /></a> </p>
-<div style="display:flex:justify-content:center">
-  
-- 🌱 I’m currently learning **ReactJS,Data Structure and algorithm**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=94D2BD&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+Developer;Microservices+%7C+AWS+%7C+System+Design;Global+CTF+Winner+%40+Emerson;AIR+478+%E2%80%94+TCS+CodeVita;Competitive+Programmer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-- 👨‍💻 All of my projects are available at [pranavj.web.app](pranavj.web.app)
-
-- 💬 Ask me about **Angular**
-
-- 📫 How to reach me **jadhavhpranav1121@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sO_a79jPoQBYeH39uT9qALaAJD_keNc2/view](https://drive.google.com/file/d/1sO_a79jPoQBYeH39uT9qALaAJD_keNc2/view)
-</div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pranav-jadhav-473418192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-jadhav-473418192/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pranav_1121" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pranav_1121" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/makepro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="makepro" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/coderpass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/coderpass" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pranav_hari_jadhav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jadhavhpranav1121/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jadhavhpranav1121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jadhavhpranav1121" height="30" width="40" /></a>
+<p>
+  <a href="https://linkedin.com/in/pranav-jadhav-473418192/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jadhavhpranav1121@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/pranav_hari_jadhav/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/pranav_1121"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://pranavj.web.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/jadhavhpranav1121?theme=dark&font=Nunito&ext=contest) -->
-<img align="center" src="https://leetcard.jacoblin.cool/pranav_hari_jadhav?theme=dark&font=Nunito&ext=contest" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadhavhpranav1121&show_icons=true&locale=en&layout=compact" alt="jadhavhpranav1121" /></p>
+<img src="https://komarev.com/ghpvc/?username=jadhavhpranav1121&label=Profile+Views&color=2c5364&style=flat-square" alt="profile views" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jadhavhpranav1121&show_icons=true&locale=en" alt="jadhavhpranav1121" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavhpranav1121&" alt="jadhavhpranav1121" /></p>
+---
+
+## 🏆 Competitive Programming Achievements
+
+<div align="center">
+
+| 🥇 Achievement | 📌 Details |
+|---|---|
+| **Global CTF Winner** | Emerson CTF — 1st place globally |
+| **AIR 478** | TCS CodeVita — All India Rank |
+| **CGPA 9.16** | Graduated with distinction |
+| **LeetCode** | Active problem solver — [pranav_hari_jadhav](https://leetcode.com/pranav_hari_jadhav/) |
+| **CodeChef** | [pranav_1121](https://www.codechef.com/users/pranav_1121) |
+| **Codeforces** | [coderpass](https://codeforces.com/profile/coderpass) |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend (Primary Focus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0081CB?style=for-the-badge&logo=apache&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Database & Tools
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadhavhpranav1121&show_icons=true&theme=dark&bg_color=0f2027&border_color=2c5364&title_color=94d2bd&icon_color=94d2bd&text_color=ffffff&hide_border=false&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavhpranav1121&layout=compact&theme=dark&bg_color=0f2027&border_color=2c5364&title_color=94d2bd&text_color=ffffff&hide_border=false"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavhpranav1121&theme=dark&background=0f2027&border=2c5364&ring=94d2bd&fire=f4a261&currStreakLabel=94d2bd" width="49%"/>
+
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/pranav_hari_jadhav?theme=dark&font=Fira+Code&ext=contest&border=0&radius=10" width="60%"/>
+
+</div>
+
+---
+
+## 🧠 What I'm Currently Focused On
+
+```java
+@Component
+public class PranavJadhav {
+
+    private final String role = "Java Backend Developer";
+    private final String[] currentlyLearning = {
+        "Spring Boot 3.x",
+        "Spring Security + JWT",
+        "Microservices Patterns (Saga, CQRS, Circuit Breaker)",
+        "AWS (EC2, S3, Lambda, API Gateway)",
+        "System Design"
+    };
+    private final String[] achievements = {
+        "Global CTF Winner @ Emerson",
+        "AIR 478 — TCS CodeVita",
+        "CGPA: 9.16"
+    };
+
+    public String getGoal() {
+        return "Build scalable, production-grade backend systems.";
+    }
+}
+```
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on **Java + Spring Boot microservices projects**
+- 🏆 **Global CTF Winner** at Emerson & **AIR 478** in TCS CodeVita
+- 🎯 Passionate about **backend systems, distributed architecture & competitive programming**
+- 💬 Ask me about **Java, Spring Boot, Spring Security, REST APIs, SQL**
+- 📄 [View My Resume](https://drive.google.com/file/d/1sO_a79jPoQBYeH39uT9qALaAJD_keNc2/view)
+- 🌐 [Portfolio](https://pranavj.web.app)
+- 📫 Reach me at **jadhavhpranav1121@gmail.com**
+- 📍 Pune, Maharashtra, India
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>

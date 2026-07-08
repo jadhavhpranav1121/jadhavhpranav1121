@@ -73,23 +73,23 @@
 
 <div align="center">
 
-<!-- Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadhavhpranav1121&show_icons=true&theme=radical&count_private=true"/>
+<!-- Stats Card - use anuraghazra's own vercel deploy -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadhavhpranav1121&show_icons=true&theme=github_dark&count_private=true&hide_border=true"/>
 
 <!-- Top Languages -->
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jadhavhpranav1121&theme=github_dark"/>
-
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com/?user=jadhavhpranav1121&theme=dark&background=0f2027&ring=94d2bd&fire=f4a261"/>
-
-<!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=jadhavhpranav1121&theme=darkhub&no-frame=true&row=1"/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jadhavhpranav1121&theme=react-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavhpranav1121&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
+<!-- Streak - demolab is most stable -->
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=jadhavhpranav1121&theme=github-dark-blue&hide_border=true"/>
+</div>
+
+<!-- Activity Graph - already working, keep this -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jadhavhpranav1121&theme=react-dark"/>
+</div>
 ## 🧩 LeetCode Stats
 
 <div align="center">

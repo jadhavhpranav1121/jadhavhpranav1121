@@ -71,21 +71,13 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadhavhpranav1121&show_icons=true&theme=dark&bg_color=0f2027&border_color=2c5364&title_color=94d2bd&icon_color=94d2bd&text_color=ffffff&hide_border=false&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavhpranav1121&layout=compact&theme=dark&bg_color=0f2027&border_color=2c5364&title_color=94d2bd&text_color=ffffff&hide_border=false"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadhavhpranav1121&show_icons=true&theme=dark&bg_color=0f2027&border_color=2c5364&title_color=94d2bd&icon_color=94d2bd&text_color=ffffff&hide_border=false&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavhpranav1121&layout=compact&theme=dark&bg_color=0f2027&border_color=2c5364&title_color=94d2bd&text_color=ffffff&hide_border=false&cache_seconds=1800"/>
 </div>
-
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavhpranav1121&theme=dark&background=0f2027&border=2c5364&ring=94d2bd&fire=f4a261&currStreakLabel=94d2bd" width="49%"/>
-
+<img src="https://streak-stats.demolab.com/?user=jadhavhpranav1121&theme=dark&background=0f2027&border=2c5364&ring=94d2bd&fire=f4a261&currStreakLabel=94d2bd" width="49%"/>
 </div>
-
----
 
 ## 🧩 LeetCode Stats
 

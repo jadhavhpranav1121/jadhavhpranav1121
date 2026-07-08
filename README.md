@@ -69,14 +69,25 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
+
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadhavhpranav1121&show_icons=true&theme=dark&bg_color=0f2027&border_color=2c5364&title_color=94d2bd&icon_color=94d2bd&text_color=ffffff&hide_border=false&count_private=true&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavhpranav1121&layout=compact&theme=dark&bg_color=0f2027&border_color=2c5364&title_color=94d2bd&text_color=ffffff&hide_border=false&cache_seconds=1800"/>
-</div>
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=jadhavhpranav1121&theme=dark&background=0f2027&border=2c5364&ring=94d2bd&fire=f4a261&currStreakLabel=94d2bd" width="49%"/>
+
+<!-- Stats Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadhavhpranav1121&show_icons=true&theme=radical&count_private=true"/>
+
+<!-- Top Languages -->
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jadhavhpranav1121&theme=github_dark"/>
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com/?user=jadhavhpranav1121&theme=dark&background=0f2027&ring=94d2bd&fire=f4a261"/>
+
+<!-- Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=jadhavhpranav1121&theme=darkhub&no-frame=true&row=1"/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jadhavhpranav1121&theme=react-dark"/>
+
 </div>
 
 ## 🧩 LeetCode Stats

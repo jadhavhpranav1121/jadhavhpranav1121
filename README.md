@@ -79,11 +79,11 @@
 </div>
 
 <div align="center">
-<img src="https://github-profile-stats-mauve.vercel.app/api/streak?theme=github-dark-blue"/>
+<img src="https://github-profile-stats-mauve.vercel.app/api/streak?theme=github-dark"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-stats-mauve.vercel.app/api/graph?theme=react-dark"/>
+<img src="https://github-profile-stats-mauve.vercel.app/api/graph?theme=github-dark"/>
 </div>
 
 ---

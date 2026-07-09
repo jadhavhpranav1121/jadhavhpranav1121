@@ -69,27 +69,25 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Stats Card - use anuraghazra's own vercel deploy -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadhavhpranav1121&show_icons=true&theme=github_dark&count_private=true&hide_border=true"/>
-
-<!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavhpranav1121&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-profile-stats-mauve.vercel.app/api/stats?theme=github-dark"/>
+<img height="180em" src="https://github-profile-stats-mauve.vercel.app/api/langs?theme=github-dark"/>
 
 </div>
 
-<!-- Streak - demolab is most stable -->
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=jadhavhpranav1121&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-profile-stats-mauve.vercel.app/api/streak?theme=github-dark-blue"/>
 </div>
 
-<!-- Activity Graph - already working, keep this -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jadhavhpranav1121&theme=react-dark"/>
+<img src="https://github-profile-stats-mauve.vercel.app/api/graph?theme=react-dark"/>
 </div>
+
+---
 
 ## 🧩 LeetCode Stats
 

@@ -75,7 +75,6 @@
 <div align="center">
 
 <img height="180em" src="https://github-profile-stats-mauve.vercel.app/api/stats?theme=github-dark"/>
-<img height="180em" src="https://github-profile-stats-mauve.vercel.app/api/langs?theme=github-dark"/>
 
 </div>
 
